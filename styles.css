@@ -12,6 +12,32 @@
     }
 }
 
+@layer theme {
+    .active-nav {
+        color: #252432;
+    }
+
+    .inactive-nav {
+        color: #8987A1;
+    }
+
+    .highlight {
+        color: #E95A08;
+    }
+
+    .gray-1 {
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    .gray-2 {
+        color: rgba(0, 0, 0, 0.4);
+    }
+
+    .footer-nav-color {
+        color: #6B7280;
+    }
+}
+
 .btn-bg {
     background-color: #E95A08;
 }
