@@ -41,3 +41,7 @@
 .btn-bg {
     background-color: #E95A08;
 }
+
+.btn-bg:hover {
+    background-color: #b84706;
+}
